@@ -1,2 +1,2 @@
-# Calculator-JS
+# Calculator made with Javascript
 ![Screenshot](./calculadora.JPG)
